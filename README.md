@@ -10,5 +10,5 @@ NOTE:
 ![Screenshot_2](https://user-images.githubusercontent.com/80694673/111852076-a3ae6080-88e3-11eb-8fa5-1a763cfb6591.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/80694673/111852426-e0c72280-88e4-11eb-87f2-ff98ac130fae.png)
 
-This website was built in 5 days after grasping the main concepts of React in 2 weeks.
+This website was built in 5 days after grasping the main concepts of React for 2 weeks.
 
