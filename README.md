@@ -1,5 +1,5 @@
 # MERN-Stack-real-estate
-This basic real estate website has been built using the MERN stack. It includes user authentication with JWT and Google Auth, API calls, live-search, context API, custom drag and drop, among other functionalities. Material-UI has been used for the styling. 
+This basic real estate website has been built using the MERN stack. It includes user authentication with JWT and Google Auth, API calls, likes, live-search, context API, custom drag and drop, among other functionalities. Material-UI has been used for the styling. 
 
 NOTE: 
 
